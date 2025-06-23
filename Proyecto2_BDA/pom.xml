@@ -6,10 +6,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>Proyecto2_BDA_Dominio</module>
         <module>Proyecto2_BDA_Persistencia</module>
         <module>Proyecto2_BDA_Negocio</module>
         <module>Proyecto2_BDA_Presentacion</module>
+        <module>Proyecto2Dominio</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
